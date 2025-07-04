@@ -1,0 +1,7 @@
+"e_id","e_name","e_salary","e_age","e_gender","e_dept"
+123,"alice",60000,28,"female","engineering"
+124,"bob",55000,30,"male","marketing"
+125,"carol",52000,27,"female","finance"
+126,"dave",48000,24,"male","support"
+127,"eve",51000,29,"female","hr"
+234,"gaurav",50000,25,"male","analytics"
